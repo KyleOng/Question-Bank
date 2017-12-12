@@ -1,5 +1,5 @@
 # Question-Bank
-A console program that allows user to create, store, delete and edit questions
+A console program that allows user to create, store, delete and edit questions.
 The program also allows user to answer questions from different categories
 
 * Programming Language Written: C++
