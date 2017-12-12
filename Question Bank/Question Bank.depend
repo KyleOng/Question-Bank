@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1513102225 source:c:\users\kyle\desktop\tc03_32_ong_kyle\src\1151101783.cpp
+	<iostream>
+	"player.h"
+	"Question.h"
+	"QuestionTF.h"
+	"QuestionMC.h"
+	"QuestionSA.h"
+	"LinkedList.h"
+	"Rank.h"
+	"Admin.h"
+	<fstream>
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\player.h
+	<iostream>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\question.h
+	<iostream>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\questiontf.h
+	"Question.h"
+	<iostream>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\questionmc.h
+	"Question.h"
+	<iostream>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\questionsa.h
+	"Question.h"
+	<iostream>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\linkedlist.h
+	"Node.h"
+	"PrecondViolatedExcep.h"
+	<iostream>
+	"LinkedList.cpp"
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\node.h
+	"Node.cpp"
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\node.cpp
+	"Node.h"
+	<cstddef>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\precondviolatedexcep.h
+	<stdexcept>
+	<string>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\rank.h
+	<iostream>
+
+1513102225 c:\users\kyle\desktop\tc03_32_ong_kyle\src\admin.h
+	<iostream>
+	"Question.h"
+	"QuestionTF.h"
+	"QuestionMC.h"
+	"QuestionSA.h"
+	"LinkedList.h"
+
+1513102225 source:c:\users\kyle\desktop\tc03_32_ong_kyle\src\admin.cpp
+	"Admin.h"
+	"LinkedList.h"
+	"Rank.h"
+	"fstream"
+	<string>
+	<iostream>
+	<iomanip>
+
+1513102225 source:c:\users\kyle\desktop\tc03_32_ong_kyle\src\rank.cpp
+	"Rank.h"
+	<iostream>
+
+1513102225 source:c:\users\kyle\desktop\tc03_32_ong_kyle\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1513102225 source:c:\users\kyle\desktop\tc03_32_ong_kyle\src\question.cpp
+	"Question.h"
+	<iostream>
+
+1513102225 source:c:\users\kyle\desktop\tc03_32_ong_kyle\src\questionmc.cpp
+	"QuestionMC.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1513102225 source:c:\users\kyle\desktop\tc03_32_ong_kyle\src\questionsa.cpp
+	"QuestionSA.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1513102225 source:c:\users\kyle\desktop\tc03_32_ong_kyle\src\questiontf.cpp
+	"QuestionTF.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1513102225 source:c:\users\kyle\desktop\tc03_32_ong_kyle\src\precondviolatedexcep.cpp
+	"PrecondViolatedExcep.h"
+
