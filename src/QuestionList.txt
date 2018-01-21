@@ -1,2 +1,0 @@
-IQ.txt
-IQ2.txt
