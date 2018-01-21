@@ -1,0 +1,44 @@
+9
+TF 5
+the name colour orange came before the fruit? (true/false)
+false
+MC 10
+What is the speed of light?
+4
+299 792 458 m / s
+299 802 458 m / s
+299 812 458 m / s
+299 552 458 m / s
+A
+SA 20
+Who is the founder of the Facebook?
+Mark Zuckerberg
+TF 5
+Adults have fewer bones than babies do (true/false)
+true
+MC 10
+If Teresa's daughter is my daughter's mother, what am I to Teresa? (This is a riddle question)
+4
+Grandmother
+Daughter
+Granddaughter
+I am Teresa
+B
+SA 20
+111,111,111 * 111,111,111
+12345678987654321
+TF 5
+Human can't breathe and swallow at the same time (true/false)
+true
+MC 10
+Who created the first telephone?
+5
+Neil Alden Armstrong
+Charles Darwin
+Louis Pasteur
+Alexander Graham Bell
+Isaac Newton
+D
+SA 20
+What is football called in United States of America?
+soccer
